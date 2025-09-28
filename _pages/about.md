@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -24,4 +23,4 @@ latest_posts:
 ---
 
 
-I am currently an Uhlenbeck Endowed Postdoctoral Fellow at [SLMath](https://www.slmath.org). I recently finished up my PhD at [Columbia University](https://www.math.columbia.edu) under the supervision of [Ivan Corwin](https://www.math.columbia.edu/~corwin). My research mainly focuses on interacting particle systems and their scaling limits to solutions of stochastic partial differential equations.[subreddit](http://reddit.com). 
+I am currently an Uhlenbeck Endowed Postdoctoral Fellow at [SLMath](https://www.slmath.org). I recently finished up my PhD at [Columbia University](https://www.math.columbia.edu) under the supervision of [Ivan Corwin](https://www.math.columbia.edu/~corwin). My research mainly focuses on interacting particle systems and their scaling limits to solutions of stochastic partial differential equations.
