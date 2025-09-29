@@ -1,34 +1,26 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"haunschmid-sibitz":
+  - firstname: ["Levi", "L."]
+    url: https://sites.google.com/view/haunschmid-sibitz
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"das":
+  - firstname: ["Sayan", "S."]
+    url: https://sayan-pq.github.io/index.html
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"parekh":
+  - firstname: ["Shalin", "S."]
+    url: https://sites.google.com/view/shalinparekh
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"corwin":
+  - firstname: ["Ivan", "I.", "I. Z."]
+    url: https://www.math.columbia.edu/~corwin
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  - firstname: ["Eric", "E.", "E. I."]
+    url: http://corwinlab.uoregon.edu
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+# "lin":
+#   - firstname: ["Yier", "Y."]
+#     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# "hass":
+#   - firstname: ["Jacob", "J.", "Jacob B.", "J. B."]
+#     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
