@@ -25,30 +25,30 @@
 #   - firstname: ["Jacob", "J.", "Jacob B.", "J. B."]
 #     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"bishop":
-  - firstname: ["Christopher", "C.", "C. J."]
-    url: https://www.math.stonybrook.edu/~bishop/
+# "bishop":
+#   - firstname: ["Christopher", "C.", "C. J."]
+#     url: https://www.math.stonybrook.edu/~bishop/
 
-"ntalampekos":
-  - firstname: ["Dimitrios", "D."]
-    url: https://dntalam.webpages.auth.gr/
+# "ntalampekos":
+#   - firstname: ["Dimitrios", "D."]
+#     url: https://dntalam.webpages.auth.gr/
 
-"mandelshtam":
-  - firstname: ["Yelena", "Y."]
-    url: https://math.berkeley.edu/~yelena/
+# "mandelshtam":
+#   - firstname: ["Yelena", "Y."]
+#     url: https://math.berkeley.edu/~yelena/
 
-"jones-baro":
-  - firstname: ["Jennifer", "J.", "J. N."]
-    url: https://sites.northwestern.edu/jjones/
+# "jones-baro":
+#   - firstname: ["Jennifer", "J.", "J. N."]
+#     url: https://sites.northwestern.edu/jjones/
 
-"leng":
-  - firstname: ["James", "J."]
-    url: https://sites.google.com/view/jamesleng
+# "leng":
+#   - firstname: ["James", "J."]
+#     url: https://sites.google.com/view/jamesleng
 
-"silva":
-  - firstname: ["Cesar", "C.", "C. E."]
-    url: https://sites.williams.edu/csilva/
+# "silva":
+#   - firstname: ["Cesar", "C.", "C. E."]
+#     url: https://sites.williams.edu/csilva/
 
-"sormani":
-- firstname: ["Christina", "C."]
-    url: https://sites.google.com/site/professorsormani
+# "sormani":
+# - firstname: ["Christina", "C."]
+#     url: https://sites.google.com/site/professorsormani
