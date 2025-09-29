@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: A list of course I have taught.
+title: Teaching
 nav: true
 nav_order: 6
 ---
 
-## Columbia University 
+### Columbia University 
 - Fall 2024: Teaching assistant for Linear Algebra (MATHUN2010)
 - Fall 2023: Teaching assistant for Linear Algebra (MATHUN2010)
 - Spring 2023: Section leader for Undergraduate Seminars: Markov Chains (MATH UN3952)
