@@ -6,6 +6,10 @@ nav: true
 nav_order: 6
 ---
 
+
+### NYU
+ - Spring 2026: Instructor for Theory of Probability (MATH-UA 333)
+
 ### Columbia University 
 - Fall 2024: Teaching assistant for Linear Algebra (MATHUN2010)
 - Fall 2023: Teaching assistant for Linear Algebra (MATHUN2010)
